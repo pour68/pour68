@@ -32,3 +32,5 @@ Hi, my name is Pouria Nayeb Aboulghasem, I try day and night to become one of th
 
 - OnPage
 - OffPage
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pour68)](https://github.com/anuraghazra/github-readme-stats)
